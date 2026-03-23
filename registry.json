@@ -826,6 +826,46 @@
       }
     },
     {
+      "name": "One Dark Two",
+      "path": "One Dark Two",
+      "dark": {
+        "mPrimary": "#62BAC6",
+        "mOnPrimary": "#21252B",
+        "mSecondary": "#EAC786",
+        "mOnSecondary": "#21252B",
+        "mTertiary": "#98C379",
+        "mOnTertiary": "#21252B",
+        "mError": "#E27881",
+        "mOnError": "#21252B",
+        "mSurface": "#21252B",
+        "mOnSurface": "#C9CCD3",
+        "mSurfaceVariant": "#282C34",
+        "mOnSurfaceVariant": "#78C4CE",
+        "mOutline": "#393E47",
+        "mShadow": "#1D1F23",
+        "mHover": "#62BAC6",
+        "mOnHover": "#282C34"
+      },
+      "light": {
+        "mPrimary": "#5497A2",
+        "mOnPrimary": "#DDDEDF",
+        "mSecondary": "#BAA072",
+        "mOnSecondary": "#DDDEDF",
+        "mTertiary": "#7C9D68",
+        "mOnTertiary": "#DDDEDF",
+        "mError": "#B4656E",
+        "mOnError": "#DDDEDF",
+        "mSurface": "#E6E6E6",
+        "mOnSurface": "#282C34",
+        "mSurfaceVariant": "#DDDEDF",
+        "mOnSurfaceVariant": "#393E47",
+        "mOutline": "#C9CCD3",
+        "mShadow": "#E6E6E6",
+        "mHover": "#7C9D68",
+        "mOnHover": "#E6E6E6"
+      }
+    },
+    {
       "name": "Osaka jade",
       "path": "Osaka jade",
       "dark": {
